@@ -2,11 +2,6 @@
 
 Aplicativo mobile de monitoramento e controle de um ambiente IoT simulado. O projeto usa React Native, Expo e TypeScript para receber temperatura e umidade em tempo real, enviar comandos para uma lâmpada virtual e acompanhar as mensagens trocadas por MQTT.
 
-> [!CAUTION]
-> **PENDÊNCIA OBRIGATÓRIA ANTES DA ENTREGA — VALE NOTA ZERO**
->
-> Substitua a linha abaixo pelo **nome completo e RM de todos os integrantes**. O enunciado determina nota zero quando essa identificação não está no README.
-
 | Nome completo | RM |
 |---|---|
 | Guilherme Gomes Oliveira | RM554606 |
