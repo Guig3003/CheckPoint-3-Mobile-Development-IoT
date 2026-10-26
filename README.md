@@ -173,24 +173,16 @@ Permite editar e salvar a URL WebSocket, conectar/desconectar do broker, alterna
 
 ## Capturas de tela
 
-> [!WARNING]
-> **PENDENTE ANTES DA ENTREGA:** substitua os marcadores abaixo por capturas reais do aplicativo em execução. Não foram adicionadas imagens fictícias.
-
 | Tela | Arquivo a adicionar | O que deve aparecer |
 |---|---|---|
-| Dashboard | `docs/images/dashboard.png` | sensores, conexão e lâmpada |
-| Histórico | `docs/images/historico.png` | mensagens enviadas e recebidas |
-| Configurações Light | `docs/images/configuracoes-light.png` | broker e tema claro |
-| Configurações Dark | `docs/images/configuracoes-dark.png` | persistência e tema escuro |
-
-Depois de criar os arquivos, remova os comentários e habilite as imagens abaixo:
-
-```md
-![Dashboard](docs/images/dashboard.png)
-![Histórico](docs/images/historico.png)
-![Configurações — Light](docs/images/configuracoes-light.png)
-![Configurações — Dark](docs/images/configuracoes-dark.png)
-```
+| Dashboard | `<img width="1255" height="934" alt="Captura de tela 2026-10-26 112244" src="https://github.com/user-attachments/assets/be4c6e24-76e7-440f-b976-deb472368924" />
+` | sensores, conexão e lâmpada |
+| Histórico | `<img width="1255" height="929" alt="Captura de tela 2026-10-26 112304" src="https://github.com/user-attachments/assets/b9d5382b-d83d-4f69-a3d1-22101b1fd4df" />
+` | mensagens enviadas e recebidas |
+| Configurações Light | `<img width="1259" height="930" alt="Captura de tela 2026-10-26 112542" src="https://github.com/user-attachments/assets/3ed3f364-c2de-4495-9d1c-51d629b63d63" />
+` | broker e tema claro |
+| Configurações Dark | `<img width="1263" height="931" alt="Captura de tela 2026-10-26 112320" src="https://github.com/user-attachments/assets/a027312a-3c8b-4d6e-85bf-80f45d46f96a" />
+` | persistência e tema escuro |
 
 ## Validação antes da entrega
 
@@ -263,6 +255,3 @@ Se o simulador estiver em outro terminal, pare-o tambem com `Ctrl + C`. Isso enc
 - O simulador Node.js publica temperatura e umidade periodicamente, recebe comandos ON/OFF e publica a confirmacao do estado da lampada.
 - Os componentes reutilizaveis usam `StyleSheet`, Flexbox e paletas separadas para os temas claro e escuro.
 
-## Entrega
-
-Envie somente o link deste repositório GitHub na tarefa correspondente do Microsoft Teams. Não substitua o repositório por arquivo ZIP; vídeo e apresentação não são exigidos pelo enunciado.
